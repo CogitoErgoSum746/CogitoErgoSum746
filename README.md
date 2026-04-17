@@ -2,7 +2,7 @@
 
 Software engineer at Allyzent focused on AI automation, backend systems, and cloud infrastructure. I’m also building toward robotics and autonomous systems through graduate study and hands-on systems work.
 
-Most of my current production work is private, so this profile highlights public projects, technical experiments, and portfolio work.
+Most of my current production work is private, so this profile highlights public projects and portfolio work that best represent how I build.
 
 ## Current focus
 
@@ -14,11 +14,10 @@ Most of my current production work is private, so this profile highlights public
 ## Featured public work
 
 - [Picano](https://github.com/CogitoErgoSum746/Picano) - Multi-service document annotation workflow with Angular, Node/TypeScript, FastAPI, and Google Vision.
-- [Portfolio-website](https://github.com/CogitoErgoSum746/Portfolio-website) - Astro/Tailwind portfolio site built to present systems work more clearly.
-- [Speech-EMO-Recognition](https://github.com/CogitoErgoSum746/Speech-EMO-Recognition) - Python package and experiments for speech emotion recognition.
-- [Student-Performance-Tracker](https://github.com/CogitoErgoSum746/Student-Performance-Tracker) - Early PHP/MySQL web app for tracking student performance.
-- [Attendance-portal](https://github.com/CogitoErgoSum746/Attendance-portal) - Attendance management web app.
-- [FAKE-NEWS-classifier-using-LSTM](https://github.com/CogitoErgoSum746/FAKE-NEWS-classifier-using-LSTM) - LSTM-based NLP experiment for fake news classification.
+- [Portfolio-website](https://github.com/CogitoErgoSum746/Portfolio-website) - Editorial-style Astro/Tailwind portfolio site focused on case-study presentation.
+- [Finance-Manager-using-Django](https://github.com/CogitoErgoSum746/Finance-Manager-using-Django) - Django finance tracker with expense, income, and export workflows.
+- [Student-Performance-Tracker](https://github.com/CogitoErgoSum746/Student-Performance-Tracker) - Role-based Laravel app for attendance, marks, and certificate approval workflows.
+- [Attendance-portal](https://github.com/CogitoErgoSum746/Attendance-portal) - PHP/MySQL attendance portal with teacher dashboards and date-range reporting.
 
 ## Elsewhere
 
