@@ -43,19 +43,19 @@ Most of my production work is private, so this profile highlights the public pro
 
 ## 🔥 Featured Projects
 
-### 📄 [Picano](#)
+### 📄 [Picano](https://github.com/CogitoErgoSum746/Picano)
 Multi-service document annotation workflow built with **Angular, Node/TypeScript, FastAPI, and Google Vision**.
 
-### 🌐 [Portfolio Website](#)
+### 🌐 [Portfolio Website](https://github.com/CogitoErgoSum746/Portfolio-website)
 Editorial-style **Astro/Tailwind** portfolio site focused on clear case-study presentation.
 
-### 💸 [Finance Manager using Django](#)
+### 💸 [Finance Manager using Django](https://github.com/CogitoErgoSum746/Finance-Manager-using-Django)
 Expense and income tracker with reporting and export workflows.
 
-### 📚 [Student Performance Tracker](#)
+### 📚 [Student Performance Tracker](https://github.com/CogitoErgoSum746/Student-Performance-Tracker)
 Role-based **Laravel** application for attendance, marks, and certificate approval.
 
-### ✅ [Attendance Portal](#)
+### ✅ [Attendance Portal](https://github.com/CogitoErgoSum746/Attendance-portal)
 PHP/MySQL attendance portal with teacher dashboards and date-range reporting.
 
 ---
@@ -72,8 +72,8 @@ PHP/MySQL attendance portal with teacher dashboards and date-range reporting.
 
 ## 🌍 Connect With Me
 
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gracious-james-eluvathingal)
+- 🌐 [Portfolio](https://cogitoergosum746.github.io/Portfolio-gracious.github.io/)
 - 📍 Tempe, Arizona
 
 ---
